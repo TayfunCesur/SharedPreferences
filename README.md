@@ -5,7 +5,7 @@
 > This is a very simple project about SharedPreferences. All details are written in  [tayfuncesur.com](http://www.tayfuncesur.com/SharedPreferences.php)
 <br><br><br>
 <br><br><br><br><br><br><br><br><br>
-###Preview
+## Preview
 <p align="center">
 <img src="http://www.tayfuncesur.com/files/sharedpref.gif" width="400" height="700" />
 </p>
