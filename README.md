@@ -7,5 +7,5 @@
 <br><br><br><br><br><br><br><br><br>
 ###Preview
 <p align="center">
-<img src="http://www.tayfuncesur.com/files/sharedprefs.gif"/>
+<img src="http://www.tayfuncesur.com/files/sharedpref.gif"/>
 </p>
