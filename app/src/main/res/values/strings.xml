@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="data_to_write">Data to save</string>
+</resources>
